@@ -6,7 +6,7 @@ export default function Info() {
     <div className="info-container">
       <img src={profileIcon} />
       <div className="wrapper">
-        <h1>Francis Bello.</h1>
+        <h1>Francis Bello</h1>
         <p>Frontend Developer</p>
         <small>francisb.website</small>
         <div>
